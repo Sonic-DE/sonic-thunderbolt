@@ -8,7 +8,7 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 #################################################
 # Dependencies
-set(QT_MIN_VERSION "6.10.0")
+set(QT_MIN_VERSION "6.11.0")
 set(KF6_VERSION "5.240.0")
 set(KDE_COMPILERSETTINGS_LEVEL "5.82")
 
