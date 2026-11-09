@@ -2,6 +2,10 @@
 
 SonicDE's Thunderbolt settings, for safely approving the Thunderbolt devices you plug into your computer.
 
+## 6.8.2 (2026-11-10)
+
+No SonicDE-specific changes in this release; it brings the package up to date with upstream.
+
 ## 6.8.0 (2026-09-10)
 
 No SonicDE-specific changes in this release; it brings the package up to date with upstream.
